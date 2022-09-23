@@ -1,4 +1,4 @@
-# NLW eSports - Trilha Explorer
+# Clone da página inicial do Google
 
 ![preview](./.github/TelaGoogle.png)
 
